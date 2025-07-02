@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center">🔗<a href="https://github.com/espaciosoa/inmap-app">  Android App </a></td>
-    <td align="center">🔗<a href="https://github.com/espaciosoa/inmap"> Web visualizer </a></td>
+    <td align="center">🔗<a href="https://github.com/espaciosoa/inmap-web"> Web visualizer </a></td>
     <td align="center">🔗<a href="https://github.com/espaciosoa/inmap-pi"> Precise measurement module for Raspberry-Pi</a></td>
   </tr>
 </table>
