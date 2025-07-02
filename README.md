@@ -3,14 +3,14 @@
   <h2> Products </h2>
 </div>
 <div align="center" >
-  <h3> <img src="https://github.com/user-attachments/assets/3dc5878a-aafc-4b55-aa1b-b9d3039faf32"  width="40px" height="40px" /> InMap - Indoors Signal Mapper</h4>
-  <br/> ❔ <a href="https://espaciosoa.com/products/inMap"> About  </a>
+  <h3> <img src="https://github.com/user-attachments/assets/3dc5878a-aafc-4b55-aa1b-b9d3039faf32"  width="40px" height="40px" /> InMap - Indoors Signal Mapper | <a href="https://espaciosoa.com/products/inMap"> About  </a></h4>
 </div>
 
 <div align="center" >
   <!--<img src="https://github.com/user-attachments/assets/9f964717-fbb2-4d28-ae00-e2a5c2ecc507" alt="App screenshot" width="10%"/>-->
   <img src="https://github.com/user-attachments/assets/83cdd6f4-9e47-4b4b-9655-e6c7163e5d27" alt="Group 76" width="80%"/>
 </div>
+
 
 
 <p align="center">
